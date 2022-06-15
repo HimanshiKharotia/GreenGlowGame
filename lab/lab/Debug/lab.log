@@ -1,0 +1,4 @@
+﻿  Source.cpp
+F:\opengl\lab\lab\Source.cpp(69,12): warning C4101: 'angle': unreferenced local variable
+F:\opengl\lab\lab\Source.cpp(84,12): warning C4101: 'angle': unreferenced local variable
+  lab.vcxproj -> F:\opengl\lab\Debug\lab.exe
